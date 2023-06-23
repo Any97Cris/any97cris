@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
+
 <h2>Me chamo Crisciany, sou desenvolvedora de software. Formada em Ciência da Computação.</h2>
 
 <h3> My hard skills</h3>
@@ -8,3 +10,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=50 height=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width=50 height=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width=50 height=50/>
+<i class="devicon-nodejs-plain-wordmark"></i>
