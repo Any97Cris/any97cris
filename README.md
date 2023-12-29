@@ -1,6 +1,9 @@
-<h2>Me chamo Crisciany, sou desenvolvedora de software. Formada em Ciência da Computação.</h2>
+# 👋 Olá, me chamo Crisciany Souza!
+<p>sou desenvolvedora de software. Formada em Ciência da Computação.</p>
 
-<h3> My hard skills</h3>
+<hr>
+
+## 🚀💻 Tecnologias e Ferramentas
 
 <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /><img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /> <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=55 height=55 />
