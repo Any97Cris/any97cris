@@ -19,4 +19,6 @@ Por 2 meses participei de um serviço como freelancer, sistema ERP em Laravel, o
 </a>
 
 ## Comunidades que participo
-![alt text](https://phpwomen.org.br/assets/images/logos/logo-150x68.png)
+<a>
+  <img alt="phpwomen_logo" src="https://phpwomen.org.br/assets/images/logos/logo-150x68.png"/>
+</a>
