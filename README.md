@@ -27,3 +27,8 @@ Por 2 meses participei de um serviço como freelancer, sistema ERP em Laravel, o
 <a href="https://phpwomen.org.br/">
   <img alt="phpwomen_logo" src="https://phpwomen.org.br/assets/images/logos/logo-150x68.png"/>
 </a>
+
+## Dica para quem deseja ou seja iniciante em PHP
+<a href="http://br.phptherightway.com">
+    <img src="http://br.phptherightway.com/images/banners/rect-180x150.png" alt="PHP: Do Jeito Certo"/>
+</a>
