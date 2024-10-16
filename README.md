@@ -28,7 +28,7 @@ Por 2 meses participei de um serviço como freelancer, sistema ERP em Laravel, o
   <img alt="phpwomen_logo" src="https://phpwomen.org.br/assets/images/logos/logo-150x68.png"/>
 </a>
 <a href="[https://phpwomen.org.br/](https://www.linkedin.com/company/phpmanaus/)">
-  <img alt="phpmanaus_logo" src="https://github.com/user-attachments/assets/3bf7dfdf-c2ec-40b4-81ec-878637da7faa"/>
+  <img alt="phpmanaus_logo" src="https://github.com/user-attachments/assets/3bf7dfdf-c2ec-40b4-81ec-878637da7faa" width="50px"/>
 </a>
 
 ## Dica para quem deseja ou seja iniciante em PHP
